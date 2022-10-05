@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @brincob
-- 👀 Full stack development, software, blockchain and smart contracts
-- 🌱 I’m currently working on DEFI, NFTs ...
-- 💞️ I’m looking to collaborate on DEFI, NFTs, Blockchain & Smart Contract projects
+- 👀 Full stack software developer
 - 📫 You can reach me on: bandab45@gmail.com
 
 <!---
